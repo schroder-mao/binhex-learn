@@ -30,7 +30,7 @@ Assurez-vous d'avoir Python 3 installé sur votre machine.
 2. Exécutez le script `binhex-learn.py` avec Python :
 
    ```bash
-   python bi-he.py
+   python binhex-learn.py
    ```
 
 3. Entrez un mot ou une lettre lorsque vous y êtes invité, et le script affichera les étapes de conversion pour chaque caractère.
