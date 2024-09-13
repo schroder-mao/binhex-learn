@@ -27,7 +27,7 @@ Assurez-vous d'avoir Python 3 installé sur votre machine.
 ### Lancer le script
 
 1. Clonez ou téléchargez ce projet.
-2. Exécutez le script `bi-he.py` avec Python :
+2. Exécutez le script `binhex-learn.py` avec Python :
 
    ```bash
    python bi-he.py
